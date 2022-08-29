@@ -6,9 +6,9 @@ Solve the challenge and save your spot for a fast track interview with LINE MAN 
 # ![image](https://user-images.githubusercontent.com/108649272/187173421-c427b12d-5bcd-460f-9cf4-c2b878386cc7.png)
 
 # กติกาการ่วมสนุก
-(1) ดูโจทย์ที่ : Readme Link
+(1) ดูโจทย์ที่ : (https://bit.ly/LMWN-README)
 
-(2) แก้โค้ดและส่งคำตอบ (.zip) เข้ามาที่ : https://bit.ly/LMWNMysteriousCode2
+(2) แก้โค้ดและส่งคำตอบ (.zip) เข้ามาที่ : (https://bit.ly/LMWNMysteriousCode2)
 
 # รางวัล
 (1) ตอบถูก ตอบไว และ แชร์โพส LINE MAN Wongnai Mysterious Code เป็นสาธารณะ พร้อมติด #LMWNMysteriousCode2 ลุ้นรับรับรางวัลมูลค่ารวมกว่า 40,000 บาท 
