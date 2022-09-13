@@ -9,7 +9,7 @@ Plan your strategy and let's rock and roll! The winner will get a special prize 
 The winner will be determined by the fastest submissions, awarded through correctly solving problems. In the case of a tie, the participant with the fastest time will win. We required all participants to share “LINE MAN Wongnai Mysterious Code” post and use #LMWNMysteriousCode2 in their social posts (limited to Facebook and LinkedIn). Eligible social posts need to have public viewing settings
 
 
-# ![image](https://user-images.githubusercontent.com/108649272/187173421-c427b12d-5bcd-460f-9cf4-c2b878386cc7.png)
+
 # ![Mysterious code](https://user-images.githubusercontent.com/108649272/189874044-2849de7a-acff-4a3e-b2ef-7d2d685c5b71.jpg)
 
 
