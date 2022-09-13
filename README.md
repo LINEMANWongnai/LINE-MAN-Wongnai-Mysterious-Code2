@@ -23,8 +23,7 @@ The winner will be determined by the fastest submissions, awarded through correc
 
 **Hint : Sometimes the most common characters are meaningless.  You may have to zigzag walk to reach your destination.**
 
-- Please submit a simple code that solves the Mysterious Code 2 (.zip) via this link : (https://bit.ly/LMWNMysteriousCode2) 
-Before submitting, don't forget to review your code
+- Please submit a simple code that solves the Mysterious Code 2 (.zip) via this link : https://bit.ly/LMWNMysteriousCode2
 
 
 # Special prizes
