@@ -46,14 +46,13 @@ Winners will be announced on September 30, 2022, on Facebook Page: Life at LINE 
 
 
 --------
+*By submitting your answer you confirm you have read our campaign description and agreed to LINE MAN Wongnai [Disclaimers & Additional Terms](https://drive.google.com/file/d/1YD-2wboc_7QPEP1cX6fHNVPRteH63QEs/view?usp=sharing)
 
-*ขอสงวนสิทธิ์การได้รับรางวัลสำหรับบุคคลที่ไม่ใช่พนักงานปัจจุบันหรือนักศึกษาฝึกงานบริษัท LINE MAN Wongnai เท่านั้น
 
 *You will be solely responsible for your own personal income tax, and you acknowledge and understand that tax might be applicable on any prize paid or given to you. 
 
 
-คุณสามารถอ่านนโยบายคุ้มครองความเป็นส่วนตัวได้ที่นี่ [Privacy Policy](https://drive.google.com/file/d/1Dpz7qocMKSZXdY2zIMXixd-dQLyI5ADa/view)
-
+*We encourage you to also review [Privacy Policy](https://drive.google.com/file/d/1n2Z6sdUwgDRZL8r7GhKHsW_wOU409Mta/view?usp=sharing) which explains the overview of this Policy in an easy to-understand manner.
 
 
 
