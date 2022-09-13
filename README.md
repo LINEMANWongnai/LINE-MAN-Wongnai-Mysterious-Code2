@@ -3,7 +3,7 @@ Solve the challenge and save your spot for a fast track interview with LINE MAN 
 
 เชิญชวนชาวเทค มาร่วมสนุกกับ LINE MAN Wongnai Mysterious Code 2 ตอบถูก ตอบไว ได้เข้าร่วม Fast Track Interview กับ LINE MAN Wongnai Engineering Team และลุ้นรับรางวัลมูลค่ารวมกว่า 40,000 บาท 
 
-# ![Mysteriouscode](https://user-images.githubusercontent.com/108649272/189874607-8e259ba1-8637-4972-913c-b103721cd3c4.jpg)
+![Mysteriouscode](https://user-images.githubusercontent.com/108649272/189874607-8e259ba1-8637-4972-913c-b103721cd3c4.jpg)
 
 # กติกาการ่วมสนุก
 (1) ดูโจทย์ที่ : https://bit.ly/LMWN-README
