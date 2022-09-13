@@ -29,11 +29,11 @@ Before submitting, don't forget to review your code
 
 # Special prizes
 
-- The Winner:              PlayStation 5 Digital Edition Console 
-- First runner-up:        Marshall Emberton II Portable Speaker
-- Second runner-up:   CORSAIR SABRE RGB PRO WIRELESS Mouse
-- 4th-5th place:           LINE MAN Food Discount Code
-- Top 50 coders:         A fast-track opportunity to join with LINE MAN Wongnai Engineering Team.
+- The Winner:  PlayStation 5 Digital Edition Console 
+- 1st runner-up: Marshall Emberton II Portable Speaker
+- 2nd runner-up: CORSAIR SABRE RGB PRO WIRELESS Mouse
+- 4th-5th place: LINE MAN Food Discount Code
+- Top 50 coders: A fast-track opportunity to join with LINE MAN Wongnai Engineering Team.
 
 
 # Competition period
@@ -53,6 +53,4 @@ Winners will be announced on September 30, 2022, on Facebook Page: Life at LINE 
 
 
 *We encourage you to also review [Privacy Policy](https://drive.google.com/file/d/1n2Z6sdUwgDRZL8r7GhKHsW_wOU409Mta/view?usp=sharing) which explains the overview of this Policy in an easy to-understand manner.
-
-
 
