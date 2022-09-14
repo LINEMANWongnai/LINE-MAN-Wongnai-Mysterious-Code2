@@ -10,7 +10,7 @@ The winner will be determined by the fastest submissions, awarded through correc
 
 
 
-# ![Mysterious code](https://user-images.githubusercontent.com/108649272/189874044-2849de7a-acff-4a3e-b2ef-7d2d685c5b71.jpg)
+# ![Mysterious Code](https://user-images.githubusercontent.com/108649272/190095376-156092bf-3f88-49c1-b813-d7c432ad9b4e.jpg)
 
 
 # Coding Quiz
