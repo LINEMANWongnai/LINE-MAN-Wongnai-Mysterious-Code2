@@ -13,7 +13,7 @@ The winner will be determined by the fastest submissions, awarded through correc
 # ![Mysterious Code](https://user-images.githubusercontent.com/108649272/190095376-156092bf-3f88-49c1-b813-d7c432ad9b4e.jpg)
 
 
-✏ # Coding Quiz
+# Coding Quiz 🔍
 
 
 **var whatIsIt string**
