@@ -19,9 +19,9 @@ The winner will be determined by the fastest submissions, awarded through correc
 **var whatIsIt string**
 **secret := "CYtZBsWZaZliYZocWLZlXuZZYWYeYXZsXeZXtXWpXeRYYYd!ZnYeWXoYXasnX,WXWrWPoAdWesnciGenWr"**
 
-**Hint : บางครั้งตัวอักษรที่พบบ่อยก็อาจไม่มีความหมาย และคุณอาจจะต้องเดินซิกแซกเพื่อถึงจุดหมาย**
 
-**Hint : Sometimes the most common characters are meaningless.  You may have to zigzag walk to reach your destination.**
+**Hint : Sometimes the high frequency of characters are meaningless. You may have to zigzag walk to reach your destination.**
+
 
 - Please submit a simple code that solves the Mysterious Code 2 (.zip) via this link : https://bit.ly/LMWNMysteriousCode2
 
